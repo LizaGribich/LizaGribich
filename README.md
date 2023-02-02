@@ -10,5 +10,5 @@
 - 💬 How to reach me: liza692235@gmail.com or @liza_gribich on Telegram
 
 ### My skills:
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/python.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/python.svg" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/python" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/python/white" />
