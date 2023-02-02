@@ -8,3 +8,5 @@
 - 🧠 I’m currently studying at ITMO University
 - 🔮 I’m currently learning Java, Python
 - 💬 How to reach me: liza692235@gmail.com or @liza_gribich on Telegram
+
+# My skills:
