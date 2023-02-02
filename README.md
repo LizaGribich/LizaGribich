@@ -17,4 +17,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LizaGribich&show_icons=true&theme=radical)
 
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+
