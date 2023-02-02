@@ -10,5 +10,5 @@
 - 💬 How to reach me: liza692235@gmail.com or @liza_gribich on Telegram
 
 ### My skills:
-<img height="64" width="64" src="https://cdn.simpleicons.org/python"> <img height="32" width="32" src="https://cdn.simpleicons.org/latex"> <img height="32" width="32" src="https://cdn.simpleicons.org/javascript">  <img height="32" width="32" src="https://w7.pngwing.com/pngs/405/878/png-transparent-java-logo-java-runtime-environment-computer-icons-java-platform-standard-edition-java-miscellaneous-text-logo.png">
+<img height="64" width="64" src="https://cdn.simpleicons.org/python"> <img height="64" width="64" src="https://cdn.simpleicons.org/latex"> <img height="64" width="64" src="https://cdn.simpleicons.org/javascript">  <img height="64" width="64" src="https://w7.pngwing.com/pngs/405/878/png-transparent-java-logo-java-runtime-environment-computer-icons-java-platform-standard-edition-java-miscellaneous-text-logo.png">
 
