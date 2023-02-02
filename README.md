@@ -1,4 +1,4 @@
-![](https://img.freepik.com/free-photo/light-pink-holographic-textured-background_53876-143042.jpg?w=1380&t=st=1675340475~exp=1675341075~hmac=a48e6aedae3851e77ca198d165d358448b7c810aa0b066406a6ef69c8e7888f8)
+![](https://img.freepik.com/premium-photo/colorful-cloudy-bright-sunset-sky-abstract-texture-background_136930-190.jpg?w=1380)
 
 <h1 align="center">Hi there, I'm Liza
 <img src="https://smile-emoji.ru/wp-content/uploads/site-images/discord/464cdfe6f118458c3715ab4e64299565.gif" height="32"/></h1>
