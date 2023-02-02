@@ -9,4 +9,4 @@
 - 🔮 I’m currently learning Java, Python
 - 💬 How to reach me: liza692235@gmail.com or @liza_gribich on Telegram
 
-# My skills:
+<span style="color:blue">some *blue* text</span>.
