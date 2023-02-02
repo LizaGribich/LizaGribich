@@ -10,4 +10,4 @@
 - 💬 How to reach me: liza692235@gmail.com or @liza_gribich on Telegram
 
 ### My skills:
-<a href="https://www.python.org/"><img height="64" width="64" src="https://cdn.simpleicons.org/python"></a> <a href="https://www.latex-project.org/"><img height="64" width="64" src="https://cdn.simpleicons.org/latex"></a> <a href="https://www.javascript.com/"><img height="64" width="64" src="https://cdn.simpleicons.org/javascript"></a>  <a href="https://www.java.com/ru/"><img height="64" width="64" src="https://s1.iconbird.com/ico/0912/MetroUIDock/w512h5121347465064Java.png"></a>
+<a href="https://www.python.org/"><img height="64" width="64" src="https://cdn.simpleicons.org/python"></a> <a href="https://www.latex-project.org/"><img height="64" width="64" src="https://cdn.simpleicons.org/latex"></a> <a href="https://www.javascript.com/"><img height="64" width="64" src="https://cdn.simpleicons.org/javascript"></a>  <a href="https://www.oracle.com/java/"><img height="64" width="64" src="https://s1.iconbird.com/ico/0912/MetroUIDock/w512h5121347465064Java.png"></a>
