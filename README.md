@@ -1,4 +1,4 @@
-![](https://img.freepik.com/premium-photo/colorful-cloudy-bright-sunset-sky-abstract-texture-background_136930-190.jpg?w=1380)
+![](https://img.freepik.com/premium-photo/colorful-cloudy-sky-at-sunset-gradient-color_416511-7531.jpg?w=1380)
 
 <h1 align="center">Hi there, I'm Liza
 <img src="https://smile-emoji.ru/wp-content/uploads/site-images/discord/464cdfe6f118458c3715ab4e64299565.gif" height="32"/></h1>
