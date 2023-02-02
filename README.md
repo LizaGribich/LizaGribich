@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Liza
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student+from+Russia+🇷🇺)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2500&center=true&vCenter=true&width=435&lines=Computer+science+student+from+Russia)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Java, Python
