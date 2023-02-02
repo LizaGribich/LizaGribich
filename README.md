@@ -11,4 +11,4 @@
 
 ### My skills:
 <img height="32" width="32" src="https://cdn.simpleicons.org/python" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/python/white" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/java/white" />
