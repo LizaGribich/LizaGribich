@@ -16,3 +16,4 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=LizaGribich&show_icons=true&theme=radical)
 
+![](https://img.freepik.com/premium-photo/colorful-cloudy-sky-at-sunset-gradient-color_416511-7531.jpg?w=1380)
