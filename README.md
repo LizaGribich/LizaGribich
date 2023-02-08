@@ -14,4 +14,4 @@
 <a href="https://www.oracle.com/java/"><img height="50" width="50" src="https://s1.iconbird.com/ico/0912/MetroUIDock/w512h5121347465064Java.png"></a> <a href="https://www.python.org/"><img height="50" width="50" src="https://cdn.simpleicons.org/python"></a> <a href="https://www.latex-project.org/"><img height="50" width="50" src="https://cdn.simpleicons.org/latex"></a> <a href="https://www.javascript.com/"><img height="50" width="50" src="https://cdn.simpleicons.org/javascript"></a>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LizaGribich&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=LizaGribich&show_icons=true&theme=radical)
